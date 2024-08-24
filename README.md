@@ -76,6 +76,8 @@ The final level of the diagram is "Identity," which represents the most detailed
 
 > "*The Human Identity Classification Model is extremely conceptual.*"
 
+> "*Standard Citizen Distribution Concept is an original socialogy concept.*"
+
 #
 
 [Thinking As](https://chatgpt.com/g/g-l2496H1tg-thinking-as)
