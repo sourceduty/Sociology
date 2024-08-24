@@ -29,6 +29,7 @@ Family Members: 50
 Friends: 150
 Coworkers: 150
 Acquaintances: 1,000
+Ex-relationships: 0
 Public Figures (Politicians, Celebrities, etc.): 100
 Others (remaining interactions, rare encounters): 3,550
 
@@ -37,6 +38,7 @@ Family Members: 50
 Friends: 150
 Coworkers: 150
 Acquaintances: 200
+Ex-relationships: 0
 Public Figures (Politicians, Celebrities, etc.): 50
 Others (memorable individuals, standout acquaintances): 400
 ```
