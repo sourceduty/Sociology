@@ -85,6 +85,8 @@ The final level of the diagram is "Identity," which represents the most detailed
 
 > "*Standard Citizen Distribution Concept is an original socialogy concept.*"
 
+> "*I'm not a superhuman and I'm not very social.*"
+
 #
 
 [Thinking As](https://chatgpt.com/g/g-l2496H1tg-thinking-as)
