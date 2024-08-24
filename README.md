@@ -21,6 +21,27 @@ In addition to studying existing social structures, sociology also investigates 
 ```
 
 #
+### Standard Citizen Distribution Concept
+
+```
+Total Recognizable Faces: 5,000
+Family Members: 50
+Friends: 150
+Coworkers: 150
+Acquaintances: 1,000
+Public Figures (Politicians, Celebrities, etc.): 100
+Others (remaining interactions, rare encounters): 3,550
+
+Total Names Remembered: 1,000
+Family Members: 50
+Friends: 150
+Coworkers: 150
+Acquaintances: 200
+Public Figures (Politicians, Celebrities, etc.): 50
+Others (memorable individuals, standout acquaintances): 400
+```
+
+#
 ### Human Identity Classification Model Concept
 
 ```
