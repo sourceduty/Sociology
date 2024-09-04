@@ -93,6 +93,10 @@ The final level of the diagram is "Identity," which represents the most detailed
 
 #
 
+![Instant Fame](https://github.com/user-attachments/assets/2151fa80-ea9c-4fc7-94e8-cc6f39b6205c)
+
+#
+
 > Alex: "*The Human Identity Classification Model is an original concept and how I roughly think about the abstraction of people.*"
 
 > "*The Human Identity Classification Model is extremely conceptual.*"
