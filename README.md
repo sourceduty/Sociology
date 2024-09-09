@@ -53,6 +53,8 @@ Others (memorable individuals, standout acquaintances): 400
 #
 ### Superhuman Memory Capabilities
 
+![Superman](https://github.com/user-attachments/assets/4af7945d-3644-45f7-b801-80105d90777c)
+
 There are individuals often referred to as "superhumans" who possess extraordinary memory capabilities, far exceeding the average person's ability to memorize faces, names, and other information. These individuals may have highly developed mnemonic techniques, such as those used by memory champions, or may possess a condition known as hyperthymesia, where they can recall an unusually large number of life events in vivid detail. Such people can often remember thousands of names and faces far beyond the typical limits of 5,000 faces and 1,000 names, using both natural ability and practiced methods to enhance their memory skills.
 
 These exceptional memory abilities can be attributed to a combination of genetic factors, intensive practice, and sometimes neurological conditions. People with eidetic memory, often mistakenly called photographic memory, can recall images, sounds, or objects with remarkable precision for a short duration after seeing them only once. Some of these superhumans participate in memory competitions where they perform tasks like memorizing long sequences of numbers, cards, or binary digits, showcasing that with the right techniques and dedication, human memory can be expanded significantly beyond the average capacity.
