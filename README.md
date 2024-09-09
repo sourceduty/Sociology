@@ -1,4 +1,4 @@
-![Sociology](https://github.com/user-attachments/assets/640523e5-dd5d-4a34-b0a8-55d167377159)
+![Pulp Fiction](https://github.com/user-attachments/assets/79598da2-a1c5-483f-9c2a-ae3423485298)
 
 > The scientific study of society, social relationships, and social institutions.
 
@@ -109,6 +109,10 @@ The final level of the diagram is "Identity," which represents the most detailed
 #
 
 ![Instant Fame](https://github.com/user-attachments/assets/2151fa80-ea9c-4fc7-94e8-cc6f39b6205c)
+
+#
+
+![Sociology](https://github.com/user-attachments/assets/640523e5-dd5d-4a34-b0a8-55d167377159)
 
 #
 
