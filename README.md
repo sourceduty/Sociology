@@ -21,6 +21,32 @@ In addition to studying existing social structures, sociology also investigates 
 ```
 
 #
+### Average Age of Self-Supporting International Adults
+
+| Country            | Average Age to Move Out |
+|--------------------|-------------------------|
+| Sweden             | 18                       |
+| Denmark            | 21                       |
+| Finland            | 22                       |
+| Norway             | 22                       |
+| Germany            | 24                       |
+| France             | 24                       |
+| United States      | 24                       |
+| United Kingdom     | 25                       |
+| Canada             | 27                       |
+| Australia          | 25                       |
+| Japan              | 27                       |
+| Italy              | 30                       |
+| Spain              | 30                       |
+| Portugal           | 30                       |
+| Greece             | 31                       |
+
+
+<br>
+
+The table presents the average age for males to move out of their parents' home across 15 countries, highlighting significant cultural and economic differences. In Scandinavian countries like Sweden and Denmark, males tend to leave home early, around 18 to 21 years, which can be attributed to strong social support systems and affordable housing options. In contrast, Southern European countries such as Italy, Spain, and Greece have much later averages, around 30 to 31 years, often influenced by economic challenges, including high youth unemployment and expensive housing markets. Countries like Germany, France, and the United States fall in the middle, with males typically moving out between 24 and 25 years, while Canada and Japan have slightly higher averages of 27 years. This range reflects a balance of cultural expectations and financial considerations across different regions.
+
+#
 ### Faded Memories
 
 ![Sourceduty Alex](https://github.com/user-attachments/assets/22fb9246-2903-4f20-99c4-f167fe3deb63)
