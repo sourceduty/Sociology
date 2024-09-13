@@ -159,6 +159,8 @@ The final level of the diagram is "Identity," which represents the most detailed
 [Weddings](https://github.com/sourceduty/Weddings)
 <br>
 [Developing Friends](https://github.com/sourceduty/Group_Optimizer)
+<br>
+[Philosophy](https://github.com/sourceduty/Philosophy)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
