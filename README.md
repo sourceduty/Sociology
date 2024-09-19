@@ -142,6 +142,10 @@ The final level of the diagram is "Identity," which represents the most detailed
 
 #
 
+![Christ Machine](https://github.com/user-attachments/assets/d0003dab-cb1e-4cab-a40f-64a16e2601cf)
+
+#
+
 > Alex: "*The Human Identity Classification Model is an original concept and how I roughly think about the abstraction of people.*"
 
 > "*The Human Identity Classification Model is extremely conceptual.*"
