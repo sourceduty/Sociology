@@ -133,17 +133,9 @@ This identity classification framework could be modelled as an abstraction diagr
 The final level of the diagram is "Identity," which represents the most detailed and specific abstraction within the model. At this stage, the focus is on the unique and multifaceted nature of individual identity, which is shaped by personal, social, and cultural influences. This abstraction captures the complex and dynamic nature of identity, recognizing that it goes beyond simple biological or social categorizations. While the diagram effectively outlines the progression from general to specific, it also highlights the limitations of such an abstraction, as it may oversimplify the diverse and evolving nature of human identity.
 
 #
-
 ![Instant Fame](https://github.com/user-attachments/assets/2151fa80-ea9c-4fc7-94e8-cc6f39b6205c)
-
 #
-
 ![Sociology](https://github.com/user-attachments/assets/640523e5-dd5d-4a34-b0a8-55d167377159)
-
-#
-
-![Christ Machine](https://github.com/user-attachments/assets/d0003dab-cb1e-4cab-a40f-64a16e2601cf)
-
 #
 
 > Alex: "*The Human Identity Classification Model is an original concept and how I roughly think about the abstraction of people.*"
