@@ -196,6 +196,8 @@ Based on a theoretical evaluation using these dimensions, the "Cultural Social T
 
 > "*I'm not a superhuman and I'm not very social.*"
 
+> "*Calculating midlife is a miscalculation of one’s position on a life-line triangle timeline model.*"
+
 #
 
 [Thinking As](https://chatgpt.com/g/g-l2496H1tg-thinking-as)
