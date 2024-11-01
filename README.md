@@ -208,6 +208,8 @@ Based on a theoretical evaluation using these dimensions, the "Cultural Social T
 
 > "*Calculating midlife is a miscalculation of one’s position on a life-line triangle timeline model.*"
 
+> "*I used to think other people were stupid when I was younger. I now think other people are extra stupid.*"
+
 #
 
 [Thinking As](https://chatgpt.com/g/g-l2496H1tg-thinking-as)
