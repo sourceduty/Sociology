@@ -203,6 +203,8 @@ Based on a theoretical evaluation using these dimensions, the "Cultural Social T
 #
 ![Sociology](https://github.com/user-attachments/assets/640523e5-dd5d-4a34-b0a8-55d167377159)
 #
+![Deds](https://github.com/user-attachments/assets/7a4dff73-156c-4e4a-9b3f-5ca364cfa632)
+#
 
 > Alex: "*The Human Identity Classification Model is an original concept and how I roughly think about the abstraction of people.*"
 
