@@ -56,6 +56,22 @@ International travelers and strangers can foster trust when meeting for the firs
 The table presents the average age for males to move out of their parents' home across 15 countries, highlighting significant cultural and economic differences. In Scandinavian countries like Sweden and Denmark, males tend to leave home early, around 18 to 21 years, which can be attributed to strong social support systems and affordable housing options. In contrast, Southern European countries such as Italy, Spain, and Greece have much later averages, around 30 to 31 years, often influenced by economic challenges, including high youth unemployment and expensive housing markets. Countries like Germany, France, and the United States fall in the middle, with males typically moving out between 24 and 25 years, while Canada and Japan have slightly higher averages of 27 years. This range reflects a balance of cultural expectations and financial considerations across different regions.
 
 #
+### Abstractions of Sociology
+
+| Abstraction              | Description                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------|
+| Social Structure          | Patterns of relationships, roles, and institutions that organize society.         |
+| Social Institution        | Organized systems of norms and practices fulfilling societal needs.               |
+| Social Role               | Expected behaviors and responsibilities associated with a social position.        |
+| Social Norms              | Accepted standards of behavior in a society or group.                             |
+| Social Group              | A collection of individuals who interact and share a sense of identity.           |
+| Culture                   | Shared beliefs, values, symbols, and practices within a society.                  |
+| Social Interaction        | Ways individuals act and react in relation to others.                             |
+| Agency                    | Capacity of individuals to act independently and make their own choices.          |
+| Social Stratification     | Hierarchical arrangement of social classes, statuses, or power.                   |
+| Identity                  | Individual's sense of self as shaped by social categories and interactions.       |
+
+#
 ### Social Concept Experiments
 
 ![Opinion](https://github.com/user-attachments/assets/474d5686-8f84-4623-a74e-3d8cba689bd6)
