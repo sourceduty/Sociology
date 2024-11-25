@@ -257,6 +257,8 @@ Non-biased international sociology seeks to embrace a plurality of perspectives 
 
 > "*I used to think other people were stupid when I was younger. I now think other people are extra stupid.*"
 
+> "*I know who everyone is, was and continues to be.*"
+
 #
 
 [Thinking As](https://chatgpt.com/g/g-l2496H1tg-thinking-as)
