@@ -293,6 +293,8 @@ Non-biased international sociology seeks to embrace a plurality of perspectives 
 
 > "*I know who everyone is, was and continues to be.*"
 
+> "*Both private and public schools must meet the same public security requirements.*"
+
 #
 
 [Thinking As](https://chatgpt.com/g/g-l2496H1tg-thinking-as)
