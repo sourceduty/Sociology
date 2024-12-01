@@ -41,7 +41,7 @@ The effectiveness of socially engineered meetings lies in their ability to creat
 #
 ### Private/Public Security
 
-![Shitbag](https://github.com/user-attachments/assets/6b5e00e6-197b-4e95-b4ad-256338f71024)
+![Shitbag](https://github.com/user-attachments/assets/e6360182-e9c6-45f4-a2e3-4cb21cdbbdd4)
 
 Private and public schools differ in funding, governance, and accessibility, but they share certain commonalities, such as adherence to public safety standards. Public schools are funded by government resources, primarily through taxes, and are free for all students within their designated districts. These schools are governed by public school boards and must comply with state-mandated educational and safety protocols. Private schools, on the other hand, rely on tuition payments and private funding, which allows them greater flexibility in their curriculum and policies. Despite these differences, both private and public schools must meet the same public security requirements, such as fire safety codes, emergency preparedness, and measures to ensure student and staff welfare on campus.
 
