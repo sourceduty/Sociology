@@ -57,6 +57,13 @@ Nepotism refers to the practice of favoring relatives or close associates by giv
 Justin Trudeau, the Prime Minister of Canada, has faced criticism for alleged nepotism and favoritism in his political actions and affiliations. His administration has been accused of awarding lucrative contracts and positions to individuals or organizations closely tied to his family or party. While such practices may be defended on the grounds of ensuring trusted partnerships or leveraging known talents, they have drawn scrutiny for potentially eroding democratic principles and transparency. Critics contend that these actions damage public trust in leadership, breeding skepticism about the integrity of decision-making processes. However, supporters might argue that familial or allied connections can enhance cohesion in leadership teams, though the line between trust-building and favoritism remains a contentious ethical debate.
 
 #
+### National Nepotism 
+
+National nepotism, in a broad sense, refers to a system where political, economic, or social opportunities are skewed in favor of individuals due to their connections rather than merit. The phenomenon is not limited to individual acts of favoritism; it can become embedded in a country's political culture or public perception when leadership transitions or advantages appear connected to familial or legacy ties.
+
+Justin Trudeau's rise in Canadian politics, often associated with the legacy of his father, former Prime Minister Pierre Trudeau, serves as an example of perceived nepotism. However, distinguishing between genuine political appeal and the leveraging of a family name for advantage is critical. Voters' choice of Trudeau could be influenced by various factors, including nostalgia for his father's leadership, his own policies, and charisma, rather than purely nepotistic dynamics.
+
+#
 ### Indirect Nepotism
 
 ![Nepotism](https://github.com/user-attachments/assets/1d9d346a-79c5-4dca-9975-818994efbd26)
