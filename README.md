@@ -48,7 +48,7 @@ Private and public schools differ in funding, governance, and accessibility, but
 Colleges and universities, whether public or private, also share a commitment to public security while differing in other aspects like funding and access. Public institutions, supported by state governments, often have lower tuition rates for in-state students and cater to a diverse population with a wide range of programs. Private colleges and universities, funded through tuition and private donations, typically offer smaller class sizes and more personalized experiences. However, both types of institutions adhere to standardized public safety guidelines, such as campus security protocols, emergency response systems, and compliance with health and safety regulations. This ensures that all students, regardless of the type of institution, have access to a safe and secure learning environment.
 
 #
-### Nepotistism
+### Nepotism
 
 ![Nepotism](https://github.com/user-attachments/assets/5fe6dc73-e7cb-4be7-ad2a-6dd3b48ec7f1)
 
