@@ -65,7 +65,9 @@ Nepotism undermines societal fairness by prioritizing lineage and connections ov
 Moreover, nepotism fosters public discontent and social division, as it symbolizes inequity in a society striving for equal opportunities. The royal family’s taxpayer-funded lifestyles and ceremonial roles are often criticized as anachronistic and burdensome, particularly during times of economic hardship. Many argue that maintaining such privilege at public expense fuels resentment among citizens who face systemic barriers to success. While supporters contend that the royal family provides cultural value and continuity, their existence as an unelected, hereditary institution highlights the broader societal costs of nepotism: it fosters stagnation, undermines meritocracy, and perpetuates a sense of exclusion among those outside the privileged circle.
 
 #
-### National Nepotism 
+### National and International Nepotism 
+
+![Nepotism Meme](https://github.com/user-attachments/assets/8faf6b89-9cb3-4779-8fa6-29a478a78683)
 
 National nepotism, in a broad sense, refers to a system where political, economic, or social opportunities are skewed in favor of individuals due to their connections rather than merit. The phenomenon is not limited to individual acts of favoritism; it can become embedded in a country's political culture or public perception when leadership transitions or advantages appear connected to familial or legacy ties.
 
