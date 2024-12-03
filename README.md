@@ -58,6 +58,8 @@ Justin Trudeau, the Prime Minister of Canada, has faced criticism for alleged ne
 #
 ### Nepotism Standard
 
+![North Korea](https://github.com/user-attachments/assets/30edbe80-8c77-456b-b937-c8bfda795315)
+
 Nepotism undermines societal fairness by prioritizing lineage and connections over merit and capability, perpetuating inequality and eroding trust in institutions. In the case of the UK royal family, their inherited status grants them influence, wealth, and prestige without requiring qualifications or achievements. This entrenched privilege contrasts sharply with democratic ideals, where opportunities should be accessible based on merit. The monarchy’s very existence as a hereditary institution reinforces a class-based hierarchy, limiting social mobility and sending a message that some individuals are destined for elevated status by birth rather than effort or talent.
 
 Moreover, nepotism fosters public discontent and social division, as it symbolizes inequity in a society striving for equal opportunities. The royal family’s taxpayer-funded lifestyles and ceremonial roles are often criticized as anachronistic and burdensome, particularly during times of economic hardship. Many argue that maintaining such privilege at public expense fuels resentment among citizens who face systemic barriers to success. While supporters contend that the royal family provides cultural value and continuity, their existence as an unelected, hereditary institution highlights the broader societal costs of nepotism: it fosters stagnation, undermines meritocracy, and perpetuates a sense of exclusion among those outside the privileged circle.
