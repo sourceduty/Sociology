@@ -46,14 +46,6 @@ Private and public schools differ in funding, governance, and accessibility, but
 
 Colleges and universities, whether public or private, also share a commitment to public security while differing in other aspects like funding and access. Public institutions, supported by state governments, often have lower tuition rates for in-state students and cater to a diverse population with a wide range of programs. Private colleges and universities, funded through tuition and private donations, typically offer smaller class sizes and more personalized experiences. However, both types of institutions adhere to standardized public safety guidelines, such as campus security protocols, emergency response systems, and compliance with health and safety regulations. This ensures that all students, regardless of the type of institution, have access to a safe and secure learning environment.
 
-#
-### Nepotism
-
-![Nepotism](https://github.com/user-attachments/assets/5fe6dc73-e7cb-4be7-ad2a-6dd3b48ec7f1)
-
-Nepotism refers to the practice of favoring relatives or close associates by giving them opportunities, positions, or privileges that might not be available to others based solely on merit. In politics, nepotism can manifest as appointing family members or allies to key government positions, influencing policy decisions, or steering benefits toward one's inner circle. Professional nepotism, on the other hand, occurs in workplaces where individuals are hired, promoted, or given advantageous projects due to personal connections rather than qualifications or performance. While nepotism can strengthen trust and loyalty among those involved, as the relationships are deeply rooted, it often undermines meritocracy, fairness, and public confidence. Critics argue that nepotism stifles innovation and excludes deserving candidates, creating resentment and inefficiencies.
-
-Justin Trudeau, the Prime Minister of Canada, has faced criticism for alleged nepotism and favoritism in his political actions and affiliations. His administration has been accused of awarding lucrative contracts and positions to individuals or organizations closely tied to his family or party. While such practices may be defended on the grounds of ensuring trusted partnerships or leveraging known talents, they have drawn scrutiny for potentially eroding democratic principles and transparency. Critics contend that these actions damage public trust in leadership, breeding skepticism about the integrity of decision-making processes. However, supporters might argue that familial or allied connections can enhance cohesion in leadership teams, though the line between trust-building and favoritism remains a contentious ethical debate.
 
 #
 ### Nepotism Standard
@@ -63,33 +55,6 @@ Justin Trudeau, the Prime Minister of Canada, has faced criticism for alleged ne
 Nepotism undermines societal fairness by prioritizing lineage and connections over merit and capability, perpetuating inequality and eroding trust in institutions. In the case of the UK royal family, their inherited status grants them influence, wealth, and prestige without requiring qualifications or achievements. This entrenched privilege contrasts sharply with democratic ideals, where opportunities should be accessible based on merit. The monarchy’s very existence as a hereditary institution reinforces a class-based hierarchy, limiting social mobility and sending a message that some individuals are destined for elevated status by birth rather than effort or talent.
 
 Moreover, nepotism fosters public discontent and social division, as it symbolizes inequity in a society striving for equal opportunities. The royal family’s taxpayer-funded lifestyles and ceremonial roles are often criticized as anachronistic and burdensome, particularly during times of economic hardship. Many argue that maintaining such privilege at public expense fuels resentment among citizens who face systemic barriers to success. While supporters contend that the royal family provides cultural value and continuity, their existence as an unelected, hereditary institution highlights the broader societal costs of nepotism: it fosters stagnation, undermines meritocracy, and perpetuates a sense of exclusion among those outside the privileged circle.
-
-#
-### National and International Nepotism 
-
-![Nepotism Meme](https://github.com/user-attachments/assets/8faf6b89-9cb3-4779-8fa6-29a478a78683)
-
-National nepotism, in a broad sense, refers to a system where political, economic, or social opportunities are skewed in favor of individuals due to their connections rather than merit. The phenomenon is not limited to individual acts of favoritism; it can become embedded in a country's political culture or public perception when leadership transitions or advantages appear connected to familial or legacy ties.
-
-Justin Trudeau's rise in Canadian politics, often associated with the legacy of his father, former Prime Minister Pierre Trudeau, serves as an example of perceived nepotism. However, distinguishing between genuine political appeal and the leveraging of a family name for advantage is critical. Voters' choice of Trudeau could be influenced by various factors, including nostalgia for his father's leadership, his own policies, and charisma, rather than purely nepotistic dynamics.
-
-#
-### Indirect Nepotism
-
-![Nepotism](https://github.com/user-attachments/assets/1d9d346a-79c5-4dca-9975-818994efbd26)
-
-Publicity, as seen in instances like Barron Trump appearing alongside his father Donald Trump, can blur the lines between personal exposure and familial association. Public figures often involve their family members in public appearances, either intentionally or as a natural extension of their lives, which may amplify the visibility of those family members. In Barron’s case, his presence in events covered by the media often results in significant public attention, even if he is not actively seeking it. This kind of exposure can enhance personal visibility, providing a platform for recognition that others might not have access to without such prominent familial ties.
-
-However, when family members benefit from such publicity without actively engaging in the associated responsibilities or roles, it can spark debates over whether this constitutes an indirect form of nepotism. Barron Trump, by virtue of being the son of a former U.S. president, enjoys public exposure that may provide advantages later in life, such as name recognition or cultural influence. This dynamic illustrates how publicity tied to a public figure can indirectly serve as a springboard for personal exposure, even when the intent is not explicitly to promote or advance the individual’s own agenda. The interplay between publicity and association thus becomes a powerful yet controversial tool in shaping public narratives about family members of influential figures.
-
-#
-### Royal Nepotism
-
-![Nepotism](https://github.com/user-attachments/assets/6d950d96-a8df-4b36-a043-b458e6d3307d)
-
-Royal nepotism in families like the British monarchy is deeply intertwined with the institution's traditions and purpose. By design, monarchies perpetuate familial succession, ensuring that power and influence remain within a single lineage. This practice consolidates wealth, titles, and authority among family members, reinforcing the monarchy’s continuity and legacy. However, it raises questions about meritocracy and modern democratic values, as positions of influence are inherited rather than earned. Critics argue that this entrenched nepotism can alienate the public, particularly in a merit-based society, by perpetuating privilege and exclusivity. Furthermore, when controversies arise involving royal family members, public confidence in the institution can waver, with perceptions of unfair favoritism overshadowing its symbolic role.
-
-On the other hand, royal nepotism is seen by supporters as essential to preserving the monarchy’s stability and identity. The direct succession of power within the family ensures that the royal institution remains unified, avoiding potential power struggles or external influences. This consistency strengthens the monarchy’s symbolic role as a unifying figurehead, particularly in constitutional systems like the UK, where the monarch’s role is largely ceremonial. Moreover, maintaining royal lineage provides a narrative of tradition and continuity that appeals to those who value historical and cultural heritage. While the concept of royal nepotism contrasts sharply with egalitarian principles, its proponents argue that its unique context and purpose distinguish it from nepotism in other spheres, aligning it with the monarchy's enduring mission rather than undermining its legitimacy.
 
 #
 ### Passport Proof
