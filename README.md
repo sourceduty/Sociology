@@ -352,6 +352,8 @@ Non-biased international sociology seeks to embrace a plurality of perspectives 
 [Developing Friends](https://github.com/sourceduty/Group_Optimizer)
 <br>
 [Philosophy](https://github.com/sourceduty/Philosophy)
+<br>
+[Nepotism](https://github.com/sourceduty/Nepotism)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
