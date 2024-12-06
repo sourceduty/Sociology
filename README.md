@@ -51,6 +51,8 @@ The overlaps between racial and ethnic identities, such as Hispanic Black people
 
 These overlaps challenge rigid systems of classification, especially in societies like the United States, where race and ethnicity are often treated as separate and distinct categories. For example, a Black person from the Dominican Republic might identify as both Black and Hispanic, but their lived experience and social identity might differ significantly from that of a Black person born and raised in the U.S. Similarly, cultural differences within the Hispanic community—such as language, traditions, and regional histories—further complicate attempts to create tidy categories. These intersections demonstrate the fluid and multifaceted nature of identity, making it clear that simplistic racial or ethnic labels often fail to capture the full scope of individual and group identities.
 
+Afro-Latinos are individuals of both African and Latin American descent, representing a rich tapestry of cultural and racial identities. Their contributions span various fields, including music, sports, literature, and activism.
+
 #
 ### Social Engineering
 
